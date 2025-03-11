@@ -29,3 +29,5 @@ Listen to this music and feel what it's like to be # FREE.
 ## " I don’t lose anything if I’m free, it’s just one less chain on me " 
 
 # I'll be updating this page often. Don't think this is it. We just started :)
+
+(if you read this far DM me "PirateThoughts") 
