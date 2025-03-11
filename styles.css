@@ -23,20 +23,19 @@ body {
 /* Style for the large text */
 h1 {
     font-size: 5em;  /* Make the text large */
-    color: red;  /* Red color for the main heading */
+    font-family: 'Pirata One', cursive; /* Pirate-themed font */
+    color: yellow; /* Yellow color for the "PIRATE TREASURE!!!" text */
 }
 
 /* Style for the secret page text */
 .secret-page {
-    font-size: 1.5em;  /* Make the text smaller but still big */
-    color: red;  /* Set the color to red for the secret page text */
-    margin-top: 20px;
+    font-size: 3em;  /* Make the text smaller but still big */
+    font-family: 'Pirata One', cursive; /* Pirate font for secret text */
+    color: yellow;  /* Set the color to yellow */
 }
 
-/* Style for the note about updates */
+/* Note about updates */
 .update-note {
-    font-size: 1.2em;  /* Set a medium size for the update note */
-    margin-top: 40px;
-    color: red;  /* Keep the color red */
+    font-size: 1.5em;
+    color: yellow;
 }
-
