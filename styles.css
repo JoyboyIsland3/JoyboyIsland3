@@ -2,7 +2,7 @@
 body {
     background-image: url('befree.gif');  /* Path to your GIF file */
     background-size: cover;  /* Ensure the GIF covers the whole page */
-    background-repeat: no-repeat;  /* Do not repeat the GIF */
+    background-repeat: repeat;  /* Allow the GIF to repeat */
     background-position: center;  /* Center the GIF */
     height: 100vh;  /* Ensure the body takes up the full viewport height */
     margin: 0;  /* Remove default margin */
